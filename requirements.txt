@@ -1,0 +1,5 @@
+numpy==1.21.2
+python-telegram-bot==13.7
+SQLAlchemy==1.4.25
+matplotlib==3.4.3
+investpy==1.0.7
